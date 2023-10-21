@@ -1,2 +1,2 @@
-*.iml linguist-language=SQL
-*.iml linguist-vendored=false
+*.sql linguist-detectable=true
+*.md linguist-detectable=true
