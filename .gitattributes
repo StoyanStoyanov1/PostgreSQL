@@ -1,1 +1,2 @@
-*.iml linguist-language=PLpgSQL
+*.iml linguist-language=SQL
+*.iml linguist-vendored=false
