@@ -1,4 +1,4 @@
-SELECT
+SELECT 
 	CONCAT("number", ' ', street) AS Address,
 	city_id
 FROM addresses

@@ -1,4 +1,4 @@
-SELECT
+SELECT 
     DISTINCT "name",
     area AS "Area (km2)"
 FROM cities
