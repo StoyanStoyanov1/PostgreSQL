@@ -1,0 +1,1 @@
+CREATE DATABASE geography_db;
