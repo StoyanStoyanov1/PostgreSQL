@@ -1,1 +1,2 @@
-
+*.sql linguist-language=SQL
+*.plpgsql linguist-language=SQL
